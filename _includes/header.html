@@ -9,35 +9,61 @@
 			<img class="avatar" src="{{ site.baseurl }}/{{ site.theme_settings.avatar }}" alt=""/>
 		</a>
 		{% endif %}
-		<h1 class="site-title">
+<!--		<h1 class="site-title">
 			<a href="{{ site.baseurl }}/">{{ site.theme_settings.title }}</a>
-		</h1>
+		</h1> -->
 	</div>
 	<nav class="site-nav">
 		<ul>
-			{% for page in site.pages %}
-			{% if page.title and page.hide != true %}
+			{% for page in site.pages %} 
+			{% if page.title == "Home" and node.hide != true %}
 			<li>
 				<a class="page-link" href="{{ page.url | relative_url }}">
 					{{ page.title }}
 				</a>
 			</li>
-			{% endif %}
-			{% endfor %}
-			<!-- Social icons from Font Awesome, if enabled  -->
-			{% include icons.html %}
-            
-            <!-- Search bar -->
-            {% if site.theme_settings.search %}
-            <li>
-            <form action="{{ site.baseurl }}/search.html" method="get">
-                <input type="text" id="search-box" name="query" placeholder="Search" class="">
-                <button type="submit" class="">
-                    <i class="fa fa-fw fa-search"></i>
-                </button>
-            </form>
-            </li>
-            {% endif %}
+			{% endif %} {% endfor %} 
+			{% for page in site.pages %} 
+			{% if page.title == "Where" and page.hide != true %}
+			<li>
+				<a class="page-link" href="{{ page.url | relative_url }}">
+					{{ page.title }}
+				</a>
+			</li>
+			{% endif %} {% endfor %} 
+			{% for page in site.pages %} 
+			{% if page.title == "Information" and page.hide != true %}
+			<li>
+				<a class="page-link" href="{{ page.url | relative_url }}">
+					{{ page.title }}
+				</a>
+			</li>
+			{% endif %} {% endfor %} 
+			{% for page in site.pages %} 
+			{% if page.title == "Gifts" and page.hide != true %}
+			<li>
+				<a class="page-link" href="{{ page.url | relative_url }}">
+					{{ page.title }}
+				</a>
+			</li>
+			{% for page in site.pages %} 
+			{% if page.title == "Evening Guests" and page.hide != true %}
+			<li>
+				<a class="page-link" href="{{ page.url | relative_url }}">
+					{{ page.title }}
+				</a>
+			</li>
+			{% endif %} {% endfor %} 
+			{% endif %} {% endfor %} 
+			{% for page in site.pages %} 
+			{% if page.title == "RSVP" and page.hide != true %}
+			<li>
+				<a class="page-link" href="{{ page.url | relative_url }}">
+					{{ page.title }}
+				</a>
+			</li>
+			{% endif %} {% endfor %} 
+		            
 		</ul>
 	</nav>
     
