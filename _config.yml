@@ -14,7 +14,7 @@ theme_settings:
   # Header and footer text
   header_text: >
     <p>Anna and Gavin</p>
-  header_text_feature_image: "assets/img/banner_blank.png"
+  header_text_feature_image: "assets/img/banner_left.png"
 
 
   footer_text: >
