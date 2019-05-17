@@ -45,6 +45,9 @@ header {
   header {
     color: $feature-image-text-color;
     background-size: $feature-image-size;
+@media only screen and (max-width: 320px){
+    background-size: auto;
+}
     margin-bottom: 0;
     padding: $padding-large/2.5 $padding-large;
     .meta {
@@ -56,9 +59,9 @@ header {
   }
 }
 
-@media only screen and (max-width: 320px){
-.feature-image {
-  padding: 0%;
+//{
+//.feature-image {
+ /// padding: 0%;
   .post-link {
     color: $feature-image-text-color;
   }
@@ -71,5 +74,5 @@ header {
       color: rgba($feature-image-text-color, .7);
     }
   }
-}
-}
+//}
+//}
