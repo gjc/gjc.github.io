@@ -1,8 +1,8 @@
 ---
-layout: page
+layout: post
 title: "RSVP"
 permalink: /RSVP.html
-feature-img: "assets/img/banner_sized.png"
+feature-img: "assets/img/banner_small.png"
 
 
 ---

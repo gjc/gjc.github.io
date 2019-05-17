@@ -4,9 +4,15 @@
   display: inline-block;
   width: 100%;
   background-color:$header-desc-background-color;
+@media only screen and (max-width: 400px){
+    background-size: auto;
+    margin-bottom: 0;
+}
+
+
 //  background-size: contain;
 //  background-repeat: no-repeat;
-  background-size: cover;
+  background-size: containr;
   font-size: 1.2em;
   text-align: center;
   color: $header-desc-text-color;

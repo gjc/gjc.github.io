@@ -1,8 +1,8 @@
 ---
-layout: page
+layout: post
 title: "Evening Guests"
 permalink: /Evening.html
-feature-img: "assets/img/banner_sized.png"
+feature-img: "assets/img/banner_small.png"
 
 
 ---

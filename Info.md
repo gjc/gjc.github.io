@@ -1,11 +1,14 @@
 ---
-layout: page
+layout: post
 title: "Information"
 permalink: /Information.html
 feature-img: "assets/img/banner_small.png"
 
 
 ---
+<p style="text-align:center;"><img src="assets/img/information.png" alt="venue"></p>
+
+
 <p style="text-align:center;"><img src="assets/img/venue.png" alt="venue"></p>
 The wedding ceremony and evening reception will take place at:
 <center>Bellfield</center>
@@ -16,7 +19,6 @@ The wedding ceremony and evening reception will take place at:
 
 <br>
 
-<p style="text-align:center;"><img src="assets/img/where.png" alt="where"></p>
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1116.921090605563!2d-3.1090497941106476!3d55.95210722190251!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4887b9b02a8b8331%3A0xc4f93777cb5d86ec!2sBellfield!5e0!3m2!1sen!2suk!4v1556315867551!5m2!1sen!2suk" width="800" height="600" frameborder="0" style="border:0" allowfullscreen></iframe>
 <br>
 <p style="text-align:center;"><img src="assets/img/travel.png" alt="travel"></p>
@@ -42,5 +44,16 @@ Portobello itself offers a number of hotels and guest houses to suit a range of 
 [<b>Premier Inn (Duddingston)</b>](https://www.premierinn.com/gb/en/hotels/scotland/lothian/edinburgh/edinburgh-east.html?cid=GLBC_EDILAD)
 
 [<b>Premier Inn (Newcraighall)</b>](https://www.premierinn.com/gb/en/hotels/scotland/lothian/edinburgh/edinburgh-a1-newcraighall.html?cid=GLBC_EDICUD)
+
+<p style="text-align:center;"><img src="assets/img/gifts.png" alt="Gifts"></p>
+
+
+Although we have lived together for a while there are still bits and pieces we would like for our home and our future life together. If you would like to get us a gift then, rather than cash on the day, we’d be grateful if you could make your gift donation using one of the options below:
+
+Bank transfer to: 
+* Account number: 8468486 
+* s/c: 40-47-61 
+
+If you prefer we also have a John Lewis gift voucher list which you can vist [<b>here</b>](https://www.johnlewisgiftlist.com/giftint/JSPs/GiftList/ListManagement/ListHolderLogin.jsp?source=em_GLSoccasionRegistrationvoucher___) (Gift List number: 767464)
 
 

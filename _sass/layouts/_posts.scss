@@ -44,12 +44,16 @@ header {
   }
   header {
     color: $feature-image-text-color;
-    background-size: $feature-image-size;
-@media only screen and (max-width: 320px){
-    background-size: auto;
-}
+    background-size: contain;
+    background-position: center;
+//$feature-image-size;
+    background-repeat: no-repeat;
     margin-bottom: 0;
     padding: $padding-large/2.5 $padding-large;
+
+@media only screen and (max-width: 400px){
+    background-size: contain;
+}
     .meta {
       color: rgba($feature-image-text-color, .7);
     }
