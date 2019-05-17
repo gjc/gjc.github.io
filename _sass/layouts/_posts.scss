@@ -55,3 +55,21 @@ header {
     @extend %padding-regular;
   }
 }
+
+@media only screen and (max-width: 600px){
+.feature-image {
+  padding: 0%;
+  .post-link {
+    color: $feature-image-text-color;
+  }
+  header {
+    color: $feature-image-text-color;
+    background-size: $feature-image-size;
+    margin-bottom: 100;
+    padding: $padding-large/2.5 $padding-large;
+    .meta {
+      color: rgba($feature-image-text-color, .7);
+    }
+  }
+}
+}
