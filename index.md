@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 title: "Home"
 feature-img: "assets/img/banner_sized.png"
 

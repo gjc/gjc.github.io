@@ -2,7 +2,7 @@
 layout: page
 title: "Information"
 permalink: /Information.html
-feature-img: "assets/img/banner_sized.png"
+feature-img: "assets/img/banner_blank.png"
 
 
 ---
