@@ -8,6 +8,8 @@ feature-img: "assets/img/banner_small.png"
 ---
 <p style="text-align:center;"><img src="assets/img/information.png" alt="venue"></p>
 
+We are so glad that you can join us on our special day. We hope the following information is useful to you in planning your trip. 
+
 
 <p style="text-align:center;"><img src="assets/img/venue.png" alt="venue"></p>
 The wedding ceremony and evening reception will take place at:
@@ -25,7 +27,7 @@ The wedding ceremony and evening reception will take place at:
 
 The venue is Bellfield which is the Old Portobello Old Parish Church, now bought by the community group Action Porty. As such, there is no parking at the venue itself. 
 
-There is on-street parking in Portobello itself, however, you may wish to consider taking public transport or a taxi to the venue. 
+There is on-street parking in Portobello itself, however, you may wish to consider taking public transport or a taxi to the venue instead. 
 
 There are excellent public transport links to Edinburgh and surrounding area. 
 
@@ -45,15 +47,10 @@ Portobello itself offers a number of hotels and guest houses to suit a range of 
 
 [<b>Premier Inn (Newcraighall)</b>](https://www.premierinn.com/gb/en/hotels/scotland/lothian/edinburgh/edinburgh-a1-newcraighall.html?cid=GLBC_EDICUD)
 
-<p style="text-align:center;"><img src="assets/img/gifts.png" alt="Gifts"></p>
 
 
-Although we have lived together for a while there are still bits and pieces we would like for our home and our future life together. If you would like to get us a gift then, rather than cash on the day, we’d be grateful if you could make your gift donation using one of the options below:
+<p style="text-align:center;"><img src="assets/img/evening_guests.png" alt="where"></p>
 
-Bank transfer to: 
-* Account number: 8468486 
-* s/c: 40-47-61 
-
-If you prefer we also have a John Lewis gift voucher list which you can vist [<b>here</b>](https://www.johnlewisgiftlist.com/giftint/JSPs/GiftList/ListManagement/ListHolderLogin.jsp?source=em_GLSoccasionRegistrationvoucher___) (Gift List number: 767464)
+Unfortunately we cant invite everybody for the ceremony and dinner but we would love to see you to join us after for fun bit! 
 
 
