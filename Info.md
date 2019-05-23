@@ -25,7 +25,7 @@ The wedding ceremony and evening reception will take place at:
 <br>
 <p style="text-align:center;"><img src="assets/img/travel.png" alt="travel"></p>
 
-The venue is Bellfield which is the Old Portobello Old Parish Church, now bought by the community group Action Porty. As such, there is no parking at the venue itself. 
+The venue is Bellfield which is the Old Parish Church in Portobello, now bought by the community group Action Porty. There is no parking at the venue itself. 
 
 There is on-street parking in Portobello itself, however, you may wish to consider taking public transport or a taxi to the venue instead. 
 
