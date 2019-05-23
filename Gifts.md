@@ -9,7 +9,7 @@ feature-img: "assets/img/banner_small.png"
 
 <p style="text-align:center;"><img src="assets/img/gifts.png" alt="Gifts"></p>
 
-Two years ago we bought our first house together.  We still have some projects we want to do and bits and pieces that we would love for the house. If you are thinkging of getting us a gift we would welcome any contributions either by bank transfer to
+Two years ago we bought our first house together.  We still have some projects we want to do and bits and pieces that we would love for the house. We would welcome any contributions either by bank transfer to
 
 * Account number: 8468486 
 * s/c: 40-47-61 
