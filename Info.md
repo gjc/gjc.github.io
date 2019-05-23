@@ -49,8 +49,3 @@ Portobello itself offers a number of hotels and guest houses to suit a range of 
 
 
 
-<p style="text-align:center;"><img src="assets/img/evening_guests.png" alt="where"></p>
-
-Unfortunately we cant invite everybody for the ceremony and dinner but we would love to see you to join us after for fun bit! 
-
-
