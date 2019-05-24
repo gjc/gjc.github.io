@@ -9,7 +9,7 @@ feature-img: "assets/img/banner_small.png"
 
 <p style="text-align:center;"><img src="assets/img/gifts.png" alt="Gifts"></p>
 
-Two years ago we bought our first house together.  We still have some projects we want to do and bits and pieces that we would love for the house. We would welcome any contributions either by bank transfer to
+Just your presence is enough for us but if you would like to give us a gift we would be grateful for a contribution to the bits and pieces we still need for our home. You can send your gift by bank transfer:
 
 * Account number: 8468486 
 * s/c: 40-47-61 

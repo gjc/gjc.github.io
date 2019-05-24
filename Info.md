@@ -7,8 +7,7 @@ feature-img: "assets/img/banner_small.png"
 
 ---
 <p style="text-align:center;"><img src="assets/img/information.png" alt="venue"></p>
-
-We are so glad that you can join us on our special day. We hope the following information is useful to you in planning your trip. 
+We are so glad that you can join us for our big wedding bash (please bring comfortable dancing shoes!)! We hope the following information is useful to you in planning your trip to Edinburgh.
 
 
 <p style="text-align:center;"><img src="assets/img/venue.png" alt="venue"></p>
@@ -35,11 +34,20 @@ There are excellent public transport links to Edinburgh and surrounding area.
 
 **By Rail**: There are also (less frequent) Scotrail services between [Edinburgh Waverley and Brunstane Station](https://www.thetrainline.com/train-times/brunstane-to-edinburgh-waverley)(which itself is a 20 minute walk from the venue). 
 
-**By Taxi**: There are a number of local taxi operators in Portobello, Edinburgh and the nearby area.  
+**By Taxi**: There are a number of local taxi operators in Portobello, Edinburgh and the nearby area. 
+
+Central Taxis: 	0131 229 2468
+
+Capital Cars: 0131 777 7777
+
+There is also a taxi rank on Portobello High Street.
+
 
 <p style="text-align:center;"><img src="assets/img/accommodation.png" alt="accom"></p>
 
-Portobello itself offers a number of hotels and guest houses to suit a range of different budgets. A few examples of hotels nearby are:
+We are staying at: 
+
+There are also a number of hotels near the venue. Portobello itself offers a number of hotels and guest houses to suit a range of different budgets. A few examples of hotels nearby are:
 
 [<b>Best Western</b>](https://www.bestwestern.co.uk/hotels/best-western-kings-manor-hotel-83448?utm_source=google_places&utm_medium=organic&utm_campaign=Best_Western_Kings_Manor_Hotel) 
 
