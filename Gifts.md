@@ -13,6 +13,7 @@ Just your presence is enough for us but if you would like to give us a gift we w
 
 * Account number: 8468486 
 * s/c: 40-47-61 
+* Account name: G J Cullen
 
 or if you would like to give a gift voucher, we have also set up a John Lewis gift voucher list which you can visit [<b>here</b>](https://www.johnlewisgiftlist.com/giftint/JSPs/GiftList/ListManagement/ListHolderLogin.jsp?source=em_GLSoccasionRegistrationvoucher___) (Gift List number: 767464)
 
