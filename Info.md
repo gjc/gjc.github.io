@@ -26,7 +26,7 @@ The wedding ceremony and evening reception will take place at:
 
 The venue is Bellfield which is the Old Parish Church in Portobello, now bought by the community group Action Porty. There is no parking at the venue itself. 
 
-There is on-street parking in Portobello itself, however, you may wish to consider taking public transport or a taxi to the venue instead. 
+There is on-street parking in Portobello, however, you may wish to consider taking public transport or a taxi to the venue instead. 
 
 There are excellent public transport links to Edinburgh and surrounding area. 
 
@@ -45,9 +45,7 @@ There is also a taxi rank on Portobello High Street.
 
 <p style="text-align:center;"><img src="assets/img/accommodation.png" alt="accom"></p>
 
-There are a large number of hotels in and around Edinburgh.
-
-Portobello itself offers a number of hotels and guest houses to suit a range of different budgets. A few examples of hotels nearby are:
+There are a large number of hotels in and around Portobello and Edinburgh to suit a range of different budgets. A few examples of hotels nearby are:
 
 [<b>Best Western</b>](https://www.bestwestern.co.uk/hotels/best-western-kings-manor-hotel-83448?utm_source=google_places&utm_medium=organic&utm_campaign=Best_Western_Kings_Manor_Hotel) 
 
