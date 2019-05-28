@@ -13,9 +13,9 @@ Just your presence is enough for us. However, if you would like to give us a gif
 
 Rather than cash on the day we would welcome gift contributions using:
 
-* via paypal [paypal.me/gbs1985](https://www.paypal.me/gbs1985)
-* Bank transfer: G J Cullen / 40-47-61 / 88468486 
+* paypal [paypal.me/gbs1985](https://www.paypal.me/gbs1985)
+* bank transfer: G J Cullen / 40-47-61 / 88468486 
 
-or if you would prefer to give a gift voucher, we have set up a John Lewis Gift Voucher list which you can visit [<b>here (from 17 August 2019)</b>](https://www.johnlewisgiftlist.com/giftint/JSPs/GiftList/ListManagement/ListHolderLogin.jsp?source=em_GLSoccasionRegistrationvoucher___) (Gift List number: 767464)
+or if you would prefer to give a gift voucher, we have set up a John Lewis Gift Voucher list which you can visit [<b>here </b>](https://www.johnlewisgiftlist.com/giftint/JSPs/GiftList/ListManagement/ListHolderLogin.jsp?source=em_GLSoccasionRegistrationvoucher___) (from 17 August 2019 - Gift List number: 767464)
 
 
