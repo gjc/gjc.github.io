@@ -45,7 +45,9 @@ There is also a taxi rank on Portobello High Street.
 
 <p style="text-align:center;"><img src="assets/img/accommodation.png" alt="accom"></p>
 
-There are also a number of hotels near the venue. Portobello itself offers a number of hotels and guest houses to suit a range of different budgets. A few examples of hotels nearby are:
+There are a large number of hotels in and around Edinburgh.
+
+Portobello itself offers a number of hotels and guest houses to suit a range of different budgets. A few examples of hotels nearby are:
 
 [<b>Best Western</b>](https://www.bestwestern.co.uk/hotels/best-western-kings-manor-hotel-83448?utm_source=google_places&utm_medium=organic&utm_campaign=Best_Western_Kings_Manor_Hotel) 
 
