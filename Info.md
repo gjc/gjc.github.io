@@ -7,7 +7,7 @@ feature-img: "assets/img/banner_small.png"
 
 ---
 <p style="text-align:center;"><img src="assets/img/information.png" alt="venue"></p>
-We are so glad that you can join us for our big wedding bash (please bring comfortable dancing shoes!) We hope the following information is useful to you in planning your trip to Edinburgh.
+We are so glad that you can join us for our big wedding bash (please bring comfortable dancing shoes!) We hope the following information is useful to you in planning your trip to Edinburgh. If you need any further info please just get in touch via the RSVP address! 
 
 
 <p style="text-align:center;"><img src="assets/img/venue.png" alt="venue"></p>
